@@ -1,0 +1,6 @@
+db-secret.yaml
+db/CreateTable.sql
+flask-app/Dockerfile
+flask-app/app.py
+flask-app/requirements.txt
+flask-app/templates/home.html
